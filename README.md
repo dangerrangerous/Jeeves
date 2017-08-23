@@ -7,6 +7,6 @@ Instead of hand copying and renaming each file, Jeeves can take the file path an
 This is currently a bare bones script with no error checking or user interface, so be warned.
 
 The file format is: filename.number.extension
-ex: tacocat.0001.png
+ex: C:/path/to/file/tacocat.0001.png
 
 Jeeves will place the copies in the same directory as the original file.
